@@ -1,5 +1,8 @@
 # Simon_Template_HTML_CSS_Two
-#HTML and CSS Design (Fully Responsive - Flex Dependent)
-#Better Code.
-#Semantic Tags Added To Design.
-#More Complex Design.
+1- HTML and CSS Design (Fully Responsive - Flex Dependent)
+
+2- Better Code.
+
+3- Semantic Tags Added To Design.
+
+4- More Complex Design.
