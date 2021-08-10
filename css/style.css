@@ -297,7 +297,7 @@ ul {
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('Images/intro-bg.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../Images/intro-bg.jpg');
     height: calc(100vh - 72px);
 }
 .home p, h2{
@@ -764,7 +764,6 @@ ul {
 .resume h3{
     font-size: 1.5em;
     font-weight: 600;
-    margin: 0 0 1em
 }
 .resume .itemsContainer .item span{
     background-color: var(--mainColor);
