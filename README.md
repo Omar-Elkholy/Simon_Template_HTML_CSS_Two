@@ -7,4 +7,4 @@
 
 4- More Complex Design.
 
-Check The Link:) https://omar-elkholy.github.io/Simon_Template_HTML_CSS_Two/
+Check The Link:) https://omar-elkholy.github.io/html-css-template-two/
